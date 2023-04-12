@@ -1,0 +1,30 @@
+@charset "UTF-8";
+*{box-sizing:border-box}
+
+.chat-container{
+	width:800px;
+	height:500px;
+	padding:40px;
+	margin:50px auto;
+}
+
+.text-center{
+	text-align:center;
+}
+.chatin{
+	text-align:center;
+	margin-top:40px;
+}
+.chat-container input{
+	padding:5px 15px;
+	border:1px solid #ddd;
+	border-radius:5px;
+	font-size:18px;
+}
+.iframe{
+	width: 500px;
+	height: 500px;
+	border:0;
+	margin-left:auto;
+	margin-right:auto;
+}
